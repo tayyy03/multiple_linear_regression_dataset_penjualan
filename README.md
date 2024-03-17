@@ -5,7 +5,7 @@ This repository contains a Python notebook that performs multiple linear regress
 NumPy: Used for efficient mathematical and logical operations on large, multi-dimensional arrays and matrices of numeric data.
 Pandas: Used for data manipulation and analysis. It provides special data structures and data analysis tools, which makes working with structured data easy.
 ## Data
-The data used in this analysis is stored in the ../input/ directory. The data is read using the pandas library.
+The data used in this analysis is stored in the (https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan). The data is read using the pandas library.
 
 ## Code Structure
 The code first imports the necessary libraries (numpy and pandas). It then lists all the files in the ../input/ directory using the os.walk function. The full path of each file is printed to the console.
