@@ -1,0 +1,2 @@
+# multiple_linear_regression_dataset_penjualan
+Regresi Linear for selling data
